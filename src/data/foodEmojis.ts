@@ -1,0 +1,23 @@
+export const foodEmojis: Record<string, string> = {
+  "Shirataki noodles": "🍜",
+  "Tomatoes": "🍅",
+  "Broccoli": "🥦",
+  "Frozen strawberries": "🍓",
+  "Egg whites": "🥚",
+  "Apple": "🍎",
+  "Greek Yogurt - fat free": "🥛",
+  "Frozen blueberries": "🫐",
+  "Frozen mango chunks": "🥭",
+  "Potatoes": "🥔",
+  "Banana": "🍌",
+  "Chicken breast - cooked, 99% fat free": "🍗",
+  "Egg - whole": "🥚",
+  "Spaghetti - cooked, no sauce": "🍝",
+  "Kodiak pancakes": "🥞",
+  "Ezekiel Bread": "🍞",
+  "Mini Pizza - Costco": "🍕",
+  "Mac & cheese": "🧀",
+  "Popcorn - no oil or flavoring": "🍿",
+  "Peanut butter": "🥜",
+  "Avocado Oil": "🥑"
+};
